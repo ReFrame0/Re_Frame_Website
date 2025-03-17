@@ -1,0 +1,33 @@
+body {
+    height: 100vh;
+    background: linear-gradient(180deg, #FFF 49.17%, #E3F7FF 100%) !important;
+}
+
+.home {
+    flex-direction: column;
+    padding: 0px 120px;
+    display: flex;
+}
+
+.home h1 {
+    color: #90CAE0;
+    text-align: right;
+    font-family: Pretendard;
+    font-size: 128px;
+    font-weight: 900;
+    flex-direction: column;
+    margin-left: 60%;
+    margin-top: 25%;
+    margin-bottom: 0px;
+}
+
+.home p {
+    color: #90CAE0;
+    text-align: right;
+    font-family: "Pretendard";
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+    margin-top: 0px;
+}
